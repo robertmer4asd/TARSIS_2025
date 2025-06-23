@@ -1,0 +1,4 @@
+opencv-python==4.5.5.64
+Adafruit-PCA9685==1.0.1
+pycoral==2.1.0
+numpy>=1.19
