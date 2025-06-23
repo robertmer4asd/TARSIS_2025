@@ -29,3 +29,18 @@ cd Coral/pycoral/examples-camera/opencv
 
 #Rulează codul
 python3 track_new.py
+```
+## Cum se rulează codul de procesare vocală pe Raspberry Pi 4
+
+### 1. Se instalează bibliotecile
+```bash
+pip install -r requirements.txt
+```
+### 3. Descarcă codul
+
+- [Cod](https://drive.google.com/file/d/1kPmNCeyMhF8Uo8P_SFTZ-9kkk-0bmuaZ/view?usp=sharing)
+
+### 2. Rulează codul
+```bash
+python3 vocal.py
+```
