@@ -1,0 +1,10 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+pyjokes
+requests
+twilio
+clint
+matplotlib
+numpy
+openai
