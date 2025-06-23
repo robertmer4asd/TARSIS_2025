@@ -4,7 +4,7 @@
 
 Descarcă următoarele fișiere pe Raspberry Pi și salvează-le în directorul proiectului:
 
-- [Coral](link-către-fișierul-Coral)  
+- [Coral](https://drive.google.com/drive/folders/1Jbkt2JSXDiCUp5Vs72evr1BS8fMRHmli?usp=sharing)  
 - [DIY_Eng_CoralUSB](link-către-fișierul-DIY_Eng_CoralUSB)
 
 ---
