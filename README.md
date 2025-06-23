@@ -34,7 +34,7 @@ python3 track_new.py
 
 ### 1. Se instalează bibliotecile
 ```bash
-pip install -r requirements.txt
+pip install -r requirements2.txt
 ```
 ### 3. Descarcă codul
 
