@@ -1,4 +1,4 @@
-## Cum se rulează codul pe Raspberry Pi
+## Cum se rulează codul de procesare video pe Raspberry Pi 4
 
 ### 1. Se descarcă fișierele necesare
 
