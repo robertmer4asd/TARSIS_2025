@@ -50,9 +50,7 @@ def forward_kinematics(joint_angles, segment_lengths):
         L = segment_lengths[i]
         
         R_x = rotation_matrix_x(theta_x)
-        R_y = rotation_matrix_y(theta_y)
-        
-        # Apply the rotations and translation
+        R_y = rotation_matrix_y(
         if i == 4:
             D = np.array([0, L, 0])  # translation along X-axis for each segment
         else:
